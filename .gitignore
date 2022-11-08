@@ -1,0 +1,15 @@
+.bash_profile
+
+.yalc
+yalc.lock
+
+#dist
+node_modules
+
+.wing
+bin-debug
+bin-release
+
+.DS_Store
+
+project.config.json
